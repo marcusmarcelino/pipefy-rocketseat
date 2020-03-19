@@ -4,7 +4,6 @@
 
 <h1 align="center"> <strong> Projeto Clone Pipefy </strong> - by Rocketseat</h1>
 
-
 <p align="center">
   <a aria-label="Versão do React" href="#">
     <img src="https://img.shields.io/badge/react-16.13.0-informational?logo=react"></img>
